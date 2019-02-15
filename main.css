@@ -1,0 +1,50 @@
+.personal{
+  
+    margin-top: -2%;
+    margin-right: 80%;
+    background-color: #4f8d9c;
+    padding-top: 20px;
+    padding-left: 20px;
+    color :azure;
+}
+.professional{
+    margin-left: 20%;
+    margin-top: -66%;
+    background-color: #fff1dc;
+    padding-left: 20px;
+}
+.picture{
+    height: 260px;
+    border-radius: 70px;
+
+}
+body{
+    margin:0%;
+    margin-top: 0%;
+    background-color: #fff1dc;
+}
+.ktiba{
+    color: #4f8d9c;
+}
+.fas{
+    margin-right: 15px;
+    font-size: 14pt;
+}
+.skills{
+    padding-left: 25px;
+}
+.name{
+    padding-left:28px;
+}
+.star{
+font-size: 13px;
+position: relative;
+margin-left:20px;
+margin-right: -17px;
+}
+.bubble{
+background-color: rgb(133, 158, 158);
+width:108%;
+margin-left: -19px;
+border-radius:20px;
+}
